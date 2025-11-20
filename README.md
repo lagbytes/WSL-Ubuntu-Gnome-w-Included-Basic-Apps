@@ -17,3 +17,8 @@ Open **PowerShell as Administrator** and run:
 
 ```powershell
 wsl --install
+his installs:
+• 	WSL2 backend
+• 	Ubuntu (default distro)
+• 	WSLg (for GUI support)
+Reboot when prompted.
